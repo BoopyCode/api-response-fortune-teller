@@ -1,0 +1,2 @@
+# No external dependencies - like a good API should be
+# (But we know they never are)
